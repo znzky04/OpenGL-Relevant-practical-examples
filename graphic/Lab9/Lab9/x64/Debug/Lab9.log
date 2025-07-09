@@ -1,0 +1,5 @@
+﻿  lab9.cpp
+D:\it program\graphic\Lab9\lab9.cpp(90,25): warning C4305: “+=”: 从“double”到“GLfloat”截断
+D:\it program\graphic\Lab9\lab9.cpp(95,25): warning C4305: “+=”: 从“double”到“GLfloat”截断
+D:\it program\graphic\Lab9\lab9.cpp(100,25): warning C4305: “+=”: 从“double”到“GLfloat”截断
+  Lab9.vcxproj -> D:\it program\graphic\Lab9\x64\Debug\Lab9.exe

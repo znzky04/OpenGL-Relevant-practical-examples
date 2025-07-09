@@ -1,0 +1,4 @@
+﻿  CW2.cpp
+D:\it program\graphic\CW2\CW2.cpp(56,31): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+D:\it program\graphic\CW2\CW2.cpp(168,35): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+  CW2.vcxproj -> D:\it program\graphic\CW2\x64\Debug\CW2.exe

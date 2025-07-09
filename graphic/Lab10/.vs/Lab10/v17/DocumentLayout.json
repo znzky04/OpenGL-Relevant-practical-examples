@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\it program\\graphic\\Lab10\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{71E8FEE6-6D25-43F6-8199-A02C50E90516}|Lab10.vcxproj|D:\\it program\\graphic\\Lab10\\lab10.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{71E8FEE6-6D25-43F6-8199-A02C50E90516}|Lab10.vcxproj|solutionrelative:lab10.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "lab10.cpp",
+              "DocumentMoniker": "D:\\it program\\graphic\\Lab10\\lab10.cpp",
+              "RelativeDocumentMoniker": "lab10.cpp",
+              "ToolTip": "D:\\it program\\graphic\\Lab10\\lab10.cpp",
+              "RelativeToolTip": "lab10.cpp",
+              "ViewState": "AgIAAG8BAAAAAAAAAAAywHgBAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-18T07:24:50.885Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

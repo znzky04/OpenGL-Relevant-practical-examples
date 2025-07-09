@@ -1,0 +1,4 @@
+﻿  lab11.cpp
+D:\it program\graphic\Lab11\lab11.cpp(126,31): warning C4244: “参数”: 从“GLfloat”转换到“int”，可能丢失数据
+D:\it program\graphic\Lab11\lab11.cpp(126,24): warning C4244: “参数”: 从“GLfloat”转换到“int”，可能丢失数据
+  Lab11.vcxproj -> D:\it program\graphic\Lab11\x64\Debug\Lab11.exe
